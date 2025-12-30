@@ -3,3 +3,11 @@
     putting everything into practice, it is gonna be wild. I have been able to get a very foundational
     knowledge about flexbox. I am going to put it all in here. I am hoping to get even better understanding 
     about flexbox and the practical use of flexbox in this project. Room for growth
+
+# Shout out to the creators of these. The images used in this project were by the following creators:
+
+    rawkkim on Unsplash
+    Steve Busch on Unsplash
+    BoliviaInteligente on Unsplash
+    HsinKai Tai on Unsplash
+    Nik Iurev on Unsplash
