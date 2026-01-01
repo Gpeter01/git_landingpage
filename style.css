@@ -79,3 +79,18 @@ figcaption {
     padding: 5px;
     text-align: center;
 }
+.section-three {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    background-color: #E5E7EB;
+    font-size: 36px;
+    color: #1F2937;
+    font-weight: 300;
+    padding: 100px 220px;
+    margin: auto;
+}
+.quote-owner {
+    align-self: flex-end;
+}
