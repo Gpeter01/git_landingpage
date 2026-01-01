@@ -59,3 +59,23 @@ button {
     gap: 12px;
     align-items: flex-start;
 }
+.section-two {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 30px;
+    gap: 20px;
+}
+.container-img {
+    display: flex;
+    gap: 30px;
+}
+h2 {
+    font-size: 36px;
+    color: #1F2937;
+    font-weight: 900;
+}
+figcaption {
+    padding: 5px;
+    text-align: center;
+}
