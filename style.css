@@ -94,3 +94,25 @@ figcaption {
 .quote-owner {
     align-self: flex-end;
 }
+.section-four {
+    display: flex;
+    justify-content: center;
+    padding: 85px 160px;
+}
+.action {
+    display: flex;
+    background-color:  #3882F6;
+    color: white;
+    gap: 50px;
+    padding: 25px 50px;
+    border-radius: 10px;
+}
+.main-action {
+    display: flex;
+    flex-direction: column;
+}
+.button-next {
+    align-self: center;
+    border: solid white;
+    border-radius: 7px;
+}
