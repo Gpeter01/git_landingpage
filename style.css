@@ -38,7 +38,6 @@ a {
     color: #E5E7EB;
 }
 button {
-    background-color: #3882F6;
     font-weight: 550;
     color: white;
     padding: 5px 20px;
@@ -106,7 +105,6 @@ figcaption {
 }
 .action {
     display: flex;
-    background-color:  #3882F6;
     color: white;
     gap: 70px;
     padding: 35px 80px;
@@ -120,6 +118,9 @@ figcaption {
     align-self: center;
     border: solid white;
     border-radius: 7px;
+}
+button, .action {
+    background-color: #3882F6;
 }
 footer {
     text-align: center;
