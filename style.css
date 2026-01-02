@@ -7,12 +7,13 @@
 .section-one {
     display: flex;
     flex-direction: column;
-    padding: 13px;
+    padding: 120px 20px;
+    padding-top: 13px;
     background-color: #1F2937;
 }
 .container-logo {
     display: flex;
-    justify-content: space-around;
+    justify-content: space-evenly;
 }
 .Logo {
     font-size: 24px;
@@ -47,14 +48,14 @@ button {
 .container-hero {
     display: flex;
     justify-content: center;
-    gap: 28px;
-    margin: 20px;
-    padding-bottom: 30px;
+    gap: 40px;
+    padding-top: 50px;
     line-height: 1.3;
 }
 .hero-text {
     display: flex;
-    flex-direction: column;
+    align-self: center;
+    flex-flow: column wrap;
     max-width: 600px;
     gap: 12px;
     align-items: flex-start;
