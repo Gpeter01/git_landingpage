@@ -67,8 +67,8 @@ img {
     flex-direction: column;
     align-items: center;
     padding: 100px 0px;
-    padding-top: 35px;
-    gap: 40px;
+    padding-top: 50px;
+    gap: 50px;
 }
 .container-img {
     display: flex;
@@ -92,7 +92,7 @@ figcaption {
     font-size: 36px;
     color: #1F2937;
     font-weight: 300;
-    padding: 110px 270px;
+    padding: 110px 330px;
     margin: auto;
 }
 .quote-owner {
