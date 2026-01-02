@@ -102,19 +102,19 @@ figcaption {
 .section-four {
     display: flex;
     justify-content: center;
-    padding: 85px 160px;
+    padding: 80px 70px;
 }
 .action {
     display: flex;
     background-color:  #3882F6;
     color: white;
-    gap: 50px;
-    padding: 25px 50px;
+    gap: 70px;
+    padding: 35px 80px;
     border-radius: 10px;
 }
 .main-action {
     display: flex;
-    flex-direction: column;
+    flex-flow: column wrap;
 }
 .button-next {
     align-self: center;
