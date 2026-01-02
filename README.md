@@ -13,4 +13,6 @@
     Nik Iurev on Unsplash
 
 # After the project
-    The understanding is amazing. I've been able to most of what I learned in flexbox into practise, It's been an eye-opening and insightful experience, what can I say? I loved every moment of this. Working through it was so worth it. I wish a lot of people can share in this happiness of mine
+    The understanding is amazing. I've been able to most of what I learned in flexbox into practise, 
+    It's been an eye-opening and insightful experience, what can I say? I loved every moment of this.
+    Working through it was so worth it. I wish a lot of people can share in this happiness of mine.
